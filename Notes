@@ -1,0 +1,14 @@
+benefits of C++:
+ 
+- fast language
+- commonly used in advanced graphics apps (anything graphics intensive)
+- used in embedded systems
+- used a lot in video games
+- C++ is more a middle level language (high level languages correlate more to human language while low level languages
+tend to resemble hardware instructions)
+- high level langs like java, python, and C# are much easier to understand, but are slower than low level langs
+- middle/low level langs are harder to understand/write, but are very fast and works closely with machine hardware
+
+What you're gonna need
+- text editor (using VSCode)
+- compiler - parses source code into machine instructions (using Windows, most likely gonna use GCC)
